@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="lib/javafx-sdk-17.0.7/src/javafx.base"/>
+	<classpathentry kind="src" path="lib/javafx-sdk-17.0.7/src/javafx.controls"/>
+	<classpathentry kind="src" path="lib/javafx-sdk-17.0.7/src/javafx.fxml"/>
+	<classpathentry kind="src" path="lib/javafx-sdk-17.0.7/src/javafx.graphics"/>
+	<classpathentry kind="src" path="lib/javafx-sdk-17.0.7/src/javafx.media"/>
+	<classpathentry kind="src" path="lib/javafx-sdk-17.0.7/src/javafx.swing"/>
+	<classpathentry kind="src" path="lib/javafx-sdk-17.0.7/src/javafx.web"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/javafx-sdk-17.0.7/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="lib/javafx-sdk-17.0.7/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="lib/javafx-sdk-17.0.7/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="lib/javafx-sdk-17.0.7/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="lib/javafx-sdk-17.0.7/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="lib/javafx-sdk-17.0.7/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="lib/javafx-sdk-17.0.7/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="lib/javafx-sdk-17.0.7/lib/javafx.web.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
